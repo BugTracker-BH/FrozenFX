@@ -2,7 +2,7 @@
 
 Experience a high-fidelity winter atmosphere on Android.
 
-FrozenFX is a visual overlay engine that renders a real-time snow simulation across your device. Unlike traditional wallpaper apps that rely on static images or low-quality loops, FrozenFX generates a dynamic, physics-driven snowstorm that appears above your apps, launcher, and lock screen.
+FrozenFX is a visual overlay engine that renders a real-time snow simulation across your device. Unlike traditional wallpaper apps that rely on static images or low-quality loops, FrozenFX generates a dynamic, physics-driven snowstorm that appears above your apps, launcher.
 
 This is not just a wallpaper. It is a real-time cinematic overlay designed to transform your device into a digital winter environment.
 
