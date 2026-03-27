@@ -66,7 +66,7 @@ Designed with efficiency in mind:
 
 ## Philosophy
 
-FrozenFX is a paid premium utility created by BugTracker_.
+FrozenFX is a paid quality premium utility created by BugTracker_.
 
 - No advertisements  
 - No subscriptions  
