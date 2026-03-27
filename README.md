@@ -88,8 +88,6 @@ The goal is to provide a clean, high-quality experience without compromises.
 
 Download and install the APK on your Android device.
 
-(You can add release links here later.)
-
 ---
 
 ## Usage
